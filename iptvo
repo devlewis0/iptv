@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,A
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="" group-title="Noticias",
 https://photocall.tv/v8dr/l1?ch=cnni
